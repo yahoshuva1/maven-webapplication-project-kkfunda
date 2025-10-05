@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>🚀 Welcome to KK FUNDA Devops/AWS/SRE 🚀</h1>
+    <h1>🚀 Welcome to KK FUNDA Devops/AWS/SRE. 🚀</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
